@@ -34,6 +34,7 @@ header {
     margin: 90px auto;
     width: 70%;
     max-height: 100%;
+    max-width: 1024px;
 }
 
 #carousel-banner .carousel-inner .item {
